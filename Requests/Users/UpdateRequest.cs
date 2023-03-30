@@ -1,7 +1,7 @@
-namespace WebApi.Models.Users;
+namespace WebApi.Requests.Users;
 
 using System.ComponentModel.DataAnnotations;
-using WebApi.Entities;
+using WebApi.Models;
 
 public class UpdateRequest
 {

@@ -1,8 +1,8 @@
 namespace WebApi.Helpers;
 
 using AutoMapper;
-using WebApi.Entities;
-using WebApi.Models.Users;
+using WebApi.Models;
+using WebApi.Requests.Users;
 
 public class AutoMapperProfile : Profile
 {
